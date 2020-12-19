@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Kubra, frontend developer.
+
 <!--
 **kubraguler/kubraguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
