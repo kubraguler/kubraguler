@@ -4,7 +4,9 @@ I am a London based frontend developer.
 
 🔭 I’m currently working on my side projects.
 
-📫 How to reach me: https://www.linkedin.com/in/kubraglr/
+### 📫 How to reach me: 
+https://www.linkedin.com/in/kubraglr/
+https://twitter.com/kubragulr
 
 <!--
 **kubraguler/kubraguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
