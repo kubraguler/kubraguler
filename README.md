@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi, I'm Kubra 👋
 
-I'm Kubra, frontend developer.
+I am a London based frontend developer.
+
+🔭 I’m currently working on my side projects.
 
 <!--
 **kubraguler/kubraguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
