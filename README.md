@@ -6,9 +6,12 @@ I am a London based frontend developer.
 
 ### 📫 How to reach me: 
 https://www.linkedin.com/in/kubraglr/
+
+<br>
+<br>
+
 https://twitter.com/kubragulr
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **kubraguler/kubraguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
