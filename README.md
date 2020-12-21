@@ -8,6 +8,8 @@ I am a London based frontend developer.
 https://www.linkedin.com/in/kubraglr/
 https://twitter.com/kubragulr
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <!--
 **kubraguler/kubraguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
