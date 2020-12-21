@@ -2,7 +2,7 @@
 
 I am a London based frontend developer.
 
-🔭 I’m currently working on my side projects.
+### 🔭 I’m currently working on my side projects.
 
 <!--
 **kubraguler/kubraguler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
