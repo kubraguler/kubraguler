@@ -6,6 +6,7 @@ I am a London based frontend developer.
 
 ### 📫 How to reach me: 
 https://www.linkedin.com/in/kubraglr/
+<br>
 https://twitter.com/kubragulr
 
 
