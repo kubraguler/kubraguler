@@ -1,8 +1,8 @@
 ### Hi, I'm Kubra 👋🏽
 
-I am a London based frontend developer. 🔭 I’m currently working on my side projects.
+I am a London based frontend developer. I’m currently working on my side projects and improving my technical skills.
 
-<h4>Skills</h4>
+<h2>Skills</h2>
 <ul>
   <li>HTML, HTML5</li>
   <li>CSS, CSS3</li>
@@ -12,13 +12,15 @@ I am a London based frontend developer. 🔭 I’m currently working on my side 
   <li>Markojs</li>
   <li>Jquery</li>
   <li>ES6</li>
+  <li>ReactJS</li>
 </ul>
 
 ### 📫 Contact me
 
 <br>
 <br>
-<br>
+<img src="./linkedin.png" alt="linkedin icon" style="padding-right: 10px;">
+<img src="./twitter.png" alt="twitter icon" style="padding-right: 10px;">
 
 
 <!--
