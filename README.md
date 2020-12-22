@@ -19,8 +19,6 @@ I am a London based frontend developer. I’m currently working on my side proje
 
 <br>
 <br>
-<img src="./linkedin.png" alt="linkedin icon" style="padding-right: 10px;">
-<img src="./twitter.png" alt="twitter icon" style="padding-right: 10px;">
 
 
 <!--
