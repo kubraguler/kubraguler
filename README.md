@@ -13,4 +13,4 @@ I am a London based frontend developer. I’m currently working on my side proje
 * ES6
 * ReactJS
 
-📫 Contact me : [Linkedin](https://www.linkedin.com/in/kubraglr/) [Twitter](https://twitter.com/kubragulr) [Codersrank](https://profile.codersrank.io/user/kubraguler)
+📫 Contact me : [Linkedin](https://www.linkedin.com/in/kubraglr/) [Twitter](https://twitter.com/kubragulr)
