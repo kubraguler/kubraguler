@@ -6,7 +6,7 @@ I am a London based frontend developer. I’m currently working on my side proje
 * HTML, HTML5
 * CSS, CSS3
 * Less, Sass
-* Bem-Atomic Design
+* Bem-Atomic Design, CSS Modules
 * JavaScript
 * Markojs
 * Jquery
