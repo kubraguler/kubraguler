@@ -14,3 +14,6 @@ I am a London based frontend developer. I’m currently working on my side proje
 * ReactJS
 
 📫 Contact me : [Linkedin](https://www.linkedin.com/in/kubraglr/) [Twitter](https://twitter.com/kubragulr)
+
+
+![kubraguler's github stats](https://github-readme-stats.vercel.app/api?username=kubraguler&show_icons=true&theme=highcontrast)
