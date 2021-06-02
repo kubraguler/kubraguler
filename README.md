@@ -17,5 +17,3 @@ I am a London based frontend developer. I’m currently working on my side proje
 
 
 ![kubraguler's github stats](https://github-readme-stats.vercel.app/api?username=kubraguler&show_icons=true&theme=highcontrast)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kubraaokutan&count=2&width=300)
